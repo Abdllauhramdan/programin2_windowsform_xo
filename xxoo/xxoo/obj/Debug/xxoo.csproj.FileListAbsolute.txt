@@ -1,0 +1,49 @@
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\bin\Debug\xxoo.exe.config
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\bin\Debug\xxoo.exe
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\bin\Debug\xxoo.pdb
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\obj\Debug\xxoo.csprojResolveAssemblyReference.cache
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\obj\Debug\xxoo.Form1.resources
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\obj\Debug\xxoo.Properties.Resources.resources
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\obj\Debug\xxoo.csproj.GenerateResource.Cache
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\obj\Debug\xxoo.exe
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\obj\Debug\xxoo.pdb
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\obj\Debug\xxoo.Form2.resources
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\obj\Debug\xxoo.Form3.resources
+C:\Users\yasin\OneDrive\سطح المكتب\C#\xxoo\xxoo\obj\Debug\xxoo.Form4.resources
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\bin\Debug\xxoo.exe.config
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\bin\Debug\xxoo.exe
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\bin\Debug\xxoo.pdb
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\obj\Debug\xxoo.csproj.AssemblyReference.cache
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\obj\Debug\xxoo.Form1.resources
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\obj\Debug\xxoo.Form2.resources
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\obj\Debug\xxoo.Form3.resources
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\obj\Debug\xxoo.Form4.resources
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\obj\Debug\xxoo.Properties.Resources.resources
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\obj\Debug\xxoo.csproj.GenerateResource.cache
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\obj\Debug\xxoo.csproj.CoreCompileInputs.cache
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\obj\Debug\xxoo.exe
+C:\Users\Abdallah&Radwan\Desktop\xxoo\xxoo\obj\Debug\xxoo.pdb
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\bin\Debug\xxoo.exe.config
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\obj\Debug\xxoo.exe
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\obj\Debug\xxoo.pdb
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\bin\Debug\xxoo.exe
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\bin\Debug\xxoo.pdb
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\obj\Debug\xxoo.csprojResolveAssemblyReference.cache
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\obj\Debug\xxoo.Form1.resources
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\obj\Debug\xxoo.Form2.resources
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\obj\Debug\xxoo.Form3.resources
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\obj\Debug\xxoo.Form4.resources
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\obj\Debug\xxoo.Properties.Resources.resources
+C:\Users\yasin\OneDrive\سطح المكتب\xxoo\xxoo\xxoo\obj\Debug\xxoo.csproj.GenerateResource.Cache
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\bin\Debug\xxoo.exe.config
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\obj\Debug\xxoo.exe
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\obj\Debug\xxoo.pdb
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\bin\Debug\xxoo.exe
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\bin\Debug\xxoo.pdb
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\obj\Debug\xxoo.csprojResolveAssemblyReference.cache
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\obj\Debug\xxoo.Form1.resources
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\obj\Debug\xxoo.Form2.resources
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\obj\Debug\xxoo.Form3.resources
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\obj\Debug\xxoo.Form4.resources
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\obj\Debug\xxoo.Properties.Resources.resources
+C:\Users\yasin\OneDrive\سطح المكتب\xo\xxoo\xxoo\xxoo\obj\Debug\xxoo.csproj.GenerateResource.Cache
